@@ -32,19 +32,19 @@ Main goal is to make it as functional as my ToDo7, but limitations might apply i
 
 ### Screenshots
 
-![1.png](/Users/ricardo1pran/Documents/GitHub/ToDo16/images/1.png)
+![1.png](images/1.png)
 
 _Pic 1. ToDo16 application view, running on Windows NT 3.51 on VMware._
 
-![2.png](/Users/ricardo1pran/Documents/GitHub/ToDo16/images/2.png)
+![2.png](images/2.png)
 
 _Pic 2. Same alerts as ClassicToDo applied in this release._
 
-![3.0.png](/Users/ricardo1pran/Documents/GitHub/ToDo16/images/3.0.png)
+![3.0.png](images/3.0.png)
 
 _Pic 3. ToDo16 running on Windows 3.0 using VMware._
 
-![VB3.png](/Users/ricardo1pran/Documents/GitHub/ToDo16/images/VB3.png)
+![VB3.png](images/VB3.png)
 
 _Pic 4. Visual Basic 3.0 environtment view._
 
@@ -53,6 +53,12 @@ _Pic 4. Visual Basic 3.0 environtment view._
 Check on Release section :D
 
 ### Changelogs
+
+##### v.1.0.1 - Minor Changes
+
+- Fix BorderStyle to FixedSingle as it doesn't need to be resizable
+
+- Fix some image errors in Readme.md file.
 
 ##### v.1.0.0 - Initial Release
 
