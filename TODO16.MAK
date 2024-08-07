@@ -16,5 +16,5 @@ C:\WINNT35\SYSTEM\THREED.VBX
 ProjWinSize=73,425,189,215
 ProjWinShow=2
 IconForm="Form1"
-Title="TODO16"
+Title="ToDo16"
 ExeName="TODO16.EXE"
